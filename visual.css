@@ -1,0 +1,64 @@
+.info a
+{
+color: rgba(0, 0, 0, 0.579);
+text-decoration: none;
+}
+.name div
+{
+color: brown;
+text-shadow: 1px 1px 5px rgba(125, 125, 125, 0.579);
+}
+a.glavnaya div
+{
+    text-shadow: 0px 0px 0px rgba(255, 255, 255, 0.579);
+    text-decoration: none;
+    color: brown;
+}
+a.glavnaya div:hover
+{
+    background-color: rgba(213, 101, 101, 0.279);
+}
+a.glavnaya div:hover::after
+{
+    content: '';
+    display: block;
+    height: 2px;
+    background: rgb(176, 59, 59);
+    margin: -90px 2px 10px;
+}
+a.meny div
+{
+    text-shadow: 0px 0px 0px rgba(255, 255, 255, 0.579);
+    text-decoration: none;
+    color: brown;
+}
+a.meny div:hover
+{
+    background-color: rgba(213, 101, 101, 0.279);
+}
+a.meny div:hover::after
+{
+    content: '';
+    display: block;
+    height: 2px;
+    background: rgb(176, 59, 59);
+    margin: -90px 2px 10px;
+}
+a.uslugi div
+{
+    text-shadow: 0px 0px 0px rgba(255, 255, 255, 0.579);
+    text-decoration: none;
+    color: brown;
+}
+a.uslugi div:hover
+{
+    background-color: rgba(213, 101, 101, 0.279);
+}
+a.uslugi div:hover::after
+{
+    content: '';
+    display: block;
+    height: 2px;
+    background: rgb(176, 59, 59);
+    margin: -90px 2px 10px;
+}

@@ -1,0 +1,141 @@
+body
+{
+    background-image: url(/img/Background_mobil.jpg);
+}
+div.head
+{
+    width: 100%;
+    height: 50px;
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    top: 25px;
+    left: 0%;
+    text-align: center;
+    font-size: 30px;
+    text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.479);
+    color: brown;
+    padding-top: 10px;
+}
+img.kar
+{
+    width: 100%;
+    position: absolute;
+    top: 110px;
+    left: 0%;
+    border-radius: 0;
+}
+div.infa
+{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 25px;
+    background-color: rgb(218, 218, 218);
+    padding-left: 0%;
+}
+.infa img
+{
+    width: 20px;
+    position: relative;
+    top: 10%;
+    left: 50%;
+}
+img.pk
+{
+    width: 30px;
+    position: relative;
+    top: 10%;
+    left: 54%;  
+}
+div.adres
+{
+    position: absolute;
+    top: 85px;
+    left: 0px;
+    width: 100%;
+    height: 25px;
+    background-color: rgb(220, 220, 220);
+    text-align: center;
+    font-size: 15px;
+    padding-top: 3px;
+    color: rgba(61, 61, 61, 0.937);
+}
+div.text
+{
+    position: absolute;
+    top: 310px;
+    left: 0px;
+    width: 90%;
+    height: 200px;
+    background-color: rgba(130, 130, 130, 0.715);
+    text-align: justify;
+    font-size: 15px;
+    color: rgb(255, 255, 255);
+    text-shadow: 0.1em 0.1em 0.1em rgba(0, 0, 0, 0.479);
+    padding-top: 20px;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+.images
+{
+    width: 100%;
+    position: absolute;
+    top: 530px;
+    left: 0%;
+}
+img
+{
+    width: 80%;
+    height: auto;
+    border-radius: 10px;
+    border-width: 10px;
+    border-color: black;
+}
+.images div 
+{
+    font-size: 20px;
+    background-color: rgba(255, 255, 255, 0.715);
+    text-align: center;
+    color: brown;
+    text-shadow: 0.1em 0.1em 0.1em rgba(0, 0, 0, 0.479);
+    font-weight: 400;
+}
+infodown.end
+{
+    position: absolute;
+    left: 0;
+    width: 100%;
+    height: 40px;
+    background-color: rgb(255, 255, 255);
+    color: rgba(39, 39, 39, 0.788);
+    display: block;
+    text-align: center;
+    font-size: 13px;
+
+}
+.text2
+{
+    position: absolute;
+    top: 4135px;
+    left: 0px;
+    width: 90%;
+    height: 200px;
+    background-color: rgba(214, 214, 214, 0.897);
+    text-align: center;
+    font-size: 16px;
+    color: rgb(0, 0, 0);
+    padding-top: 20px;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+.oglavlenie
+{
+    font-size: 20px;
+    text-align: center;
+    color: brown;
+    text-shadow: 0.1em 0.1em 0.1em rgba(0, 0, 0, 0.479);
+    font-weight: 700;
+}
+
+
